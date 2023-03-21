@@ -1,13 +1,13 @@
 ### Projeto Cobrança de Títulos
 ---
-> #### *Foi Utilizado o conjunto de projetos e soluções Spring*
+> #### *Para o projeto, foi utilizado o conjunto de soluções Spring*
 > #### *O projeto foi desenvolvido na IDE Spring Tool Suite*
 > #### *Fluxo MVC Framework Action Based*
-> #### *Maven*
-> #### *Conjunto de bibliotécas Thymeleaf para trabalhar a view*
+> #### *Gerenciamento do projeto com Maven*
+> #### *Conjunto de bibliotécas Thymeleaf para templates na view*
 > #### *Banco de dados relacional MySql*
-> #### *Servidor Tomcat
-> #### *Spring Boot*
+> #### *Servidor Tomcat*
+> #### *Facilitando a configuração do projeto com Spring Boot*
 > #### *Spring Data JPA*
 > #### *Spring MVC*
 
