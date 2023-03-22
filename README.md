@@ -15,7 +15,7 @@
 
 > #### *Algumas telas do sistema:* 
 > 
-> #### *Tela de pesquisa de títulos*
+> #### *Fluxo MVC*
 
 ![actionBased](https://user-images.githubusercontent.com/16118637/226792408-4125384d-abdd-474b-8579-eed44163098a.png)
 
