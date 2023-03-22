@@ -8,7 +8,7 @@
 > #### *Banco de dados relacional MySql*
 > #### *Servidor Tomcat*
 > #### *Facilitando a configuração do projeto com Spring Boot*
-> #### *Spring Data JPA*
+> #### *Extendendo JpaRepository com Spring Data JPA*
 > #### *Spring MVC*
 
 ---
