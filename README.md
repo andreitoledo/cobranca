@@ -28,3 +28,10 @@
 > #### *Tela de cadastro e tíulos*
  
 ![Tela de cadastro](https://github.com/andreitoledo/cobranca/blob/main/src/main/resources/static/images/tela-cadastro-titulos.png)
+
+
+----
+>#### @author:                             
+>#### Andrei Toledo                        
+>#### Analista e Desenvolvedor de Sistemas 
+----
